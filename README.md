@@ -1,2 +1,2 @@
 # test-repo
-Repozytorium testowe dla strony http://the-internet.herokuapp.com/
+Repozytorium scenariuszy testowych i testów dla strony http://automationpractice.com/index.php
