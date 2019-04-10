@@ -1,2 +1,2 @@
 # test-repo
-pierwsze repozytorium testowe
+Repozytorium testowe dla strony http://the-internet.herokuapp.com/
